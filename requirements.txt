@@ -1,0 +1,6 @@
+torch
+datasets
+numpy
+scikit-learn
+streamlit
+matplotlib
